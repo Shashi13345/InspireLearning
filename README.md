@@ -1,1 +1,1 @@
-# InspireLearning
+# StudyNotion Edtech Project
